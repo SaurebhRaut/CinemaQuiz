@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/embed/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/embed/Desktop/DATA-submission/MovieQuiz1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-dc5032421dd67563ce1ce36c2873615e6908e227.jar" />
+    </item>
+    <item
+        jar="/home/embed/Desktop/DATA-submission/Project5_36/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/embed/Desktop/DATA-submission/Project5_36/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a092f9f6243e7d8728dcccab1b1a89a269c7e2b0.jar" />
+    </item>
+    <item
+        jar="/home/embed/Desktop/DATA-submission/MovieQuiz1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/embed/Desktop/DATA-submission/MovieQuiz1/app/build/intermediates/pre-dexed/debug/classes-6068ee8521659f2252af1e58a039bf0fffadb275.jar" />
+    </item>
+    <item
+        jar="/home/embed/Desktop/DATA-submission/MovieQuiz1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/embed/Desktop/DATA-submission/MovieQuiz1/app/build/intermediates/pre-dexed/debug/classes-e6bfccc4da5bf363cb1375bd53fb2458418effc7.jar" />
+    </item>
+    <item
+        jar="/home/embed/Desktop/DATA-submission/MovieQuiz1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/embed/Desktop/DATA-submission/MovieQuiz1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ffb33fcb64495a1101c33f65eba068822a6fdf86.jar" />
+    </item>
+    <item
+        jar="/home/embed/Desktop/DATA-submission/Project5_36/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/embed/Desktop/DATA-submission/Project5_36/app/build/intermediates/pre-dexed/debug/classes-3999c5aa208681abbb7131d7316a22e33a913a86.jar" />
+    </item>
+    <item
+        jar="/home/embed/Desktop/DATA-submission/Project5_36/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/embed/Desktop/DATA-submission/Project5_36/app/build/intermediates/pre-dexed/debug/classes-e3f553577780943842ba3ce9d54b3949293c3a6c.jar" />
+    </item>
+
+</items>

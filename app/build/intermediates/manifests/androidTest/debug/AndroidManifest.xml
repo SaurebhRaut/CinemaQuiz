@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cs122b.moviequiz.test">
+
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="21" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="cs122b.moviequiz"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for cs122b.moviequiz"/>
+</manifest>
